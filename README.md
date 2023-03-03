@@ -1,4 +1,4 @@
-# WP1.2
+# WP1.2 Transform Concept model into 3D
 Plot 2D sketch model of blended wing aircarft concept model and transform into 3D usinng Tensor flow algorithm
 
 
